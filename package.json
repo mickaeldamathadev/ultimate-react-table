@@ -1,7 +1,7 @@
 {
-  "name": "ultimate-react-table",
+  "name": "ultimate-react-mongo-table",
   "version": "1.0.2",
-  "description": "ultimate-react-table",
+  "description": "ultimate-react-mongo-table",
   "private": false,
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https//github.com/mickadam87/ultimate-react-table.git"
+    "url": "https//github.com/mickadam87/ultimate-react-mongo-table.git"
   },
   "keywords": [],
   "author": "Mickael Da matha sant'anna",
